@@ -11,6 +11,8 @@ print(add(4, 7))
 # When functions find a return they finish executing. Different returns can be added through conditionals
 # Usually is not recommended to conditionally return two different types of data
 
+
+# This function return the same type of data in both conditions
 def division(dividend, divisor):
     if divisor != 0:
         return dividend / divisor
