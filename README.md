@@ -16,3 +16,9 @@
         </ul>
     </article>
 </div> -->
+
+<div>
+    <article itemprop="text">
+        <h1 dir="auto">&quot;Python in 2023 refresher &quot;,</h1>
+    </article>
+</div>
