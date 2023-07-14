@@ -1,4 +1,4 @@
-<div>
+<!--<div>
     <article itemprop="text">
         <h1 dir="auto">&quot;REST APIs with Flask and Python in 2023&quot;, covers the following topics:</h1>
         <ul dir="auto">
@@ -15,4 +15,4 @@
             <li>Understand the challenges of deploying in a production environment and scale up applications properly</li>
         </ul>
     </article>
-</div>
+</div> -->
